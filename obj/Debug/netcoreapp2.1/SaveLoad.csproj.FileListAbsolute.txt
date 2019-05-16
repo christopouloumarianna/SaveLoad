@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\bin\Debug\netcoreapp2.1\SaveLoad.deps.json
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\bin\Debug\netcoreapp2.1\SaveLoad.runtimeconfig.json
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\bin\Debug\netcoreapp2.1\SaveLoad.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\bin\Debug\netcoreapp2.1\SaveLoad.dll
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\bin\Debug\netcoreapp2.1\SaveLoad.pdb
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.dll
+C:\Users\Admin\source\repos\SaveLoad\SaveLoad\obj\Debug\netcoreapp2.1\SaveLoad.pdb
